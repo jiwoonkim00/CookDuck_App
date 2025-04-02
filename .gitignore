@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Node & Flutter
+node_modules/
+build/
+.dart_tool/
+.packages
+.pub-cache/
+
+# Java / Spring
+*.class
+*.jar
+*.war
+*.iml
+.gradle/
+build/
+
+# Docker
+*.log
+
+# VSCode
+.vscode/
+
+# Env
+.env
+.env.*
+faiss_store/
+recipes_fixed.json
