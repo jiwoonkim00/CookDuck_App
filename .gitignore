@@ -32,3 +32,4 @@ build/
 .env.*
 faiss_store/
 recipes_fixed.json
+backend-server/fastapi/recipes.json
